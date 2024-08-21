@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+    font: 1em arial;
+}
+
+img {
+    width: 1%;
+    position: absolute; bottom: 0px; right: 0px;
+}
